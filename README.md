@@ -1,5 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Kendall Mamich</title>
+  <h1>Kendall Mamich</h1>
 </head>
