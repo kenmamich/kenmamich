@@ -1,1 +1,5 @@
-<h1>Hi, I'm Kendall Mamich, a computer science student with interests in data, machine learning, and artificial intelligence!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Kendall Mamich</title>
+</head>
